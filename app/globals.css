@@ -13,6 +13,9 @@
     --foreground: #ededed;
   }
 }
+.grid-row{
+  grid-template-rows: 200px, 200px;
+}
 
 body {
   color: var(--foreground);
